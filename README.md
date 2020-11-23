@@ -19,3 +19,13 @@ Viewing party is an application in which users can explore movie options and cre
 - Ruby 2.5.3
 
 - Rails 5.2.4.3
+
+## Database / relationships
+
+Visual database schema showing how a user is connected with their friends and any upcoming parties they may have. Users and friends are linked through a self-referential relationship. 
+
+### Relationship:
+![Visual DB Table](https://i.imgur.com/eB6TKLD.png)
+
+### Database:
+![Visual DB Table](https://i.imgur.com/f4dAZLE.png)
